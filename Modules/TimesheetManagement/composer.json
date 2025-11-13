@@ -1,0 +1,8 @@
+{
+    "name": "timesheetmanagement/timesheetmanagement",
+    "description": "Timesheet Management Module",
+    "type": "module",
+    "license": "MIT",
+    "require": {}
+}
+

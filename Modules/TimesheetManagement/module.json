@@ -1,0 +1,15 @@
+{
+    "name": "TimesheetManagement",
+    "alias": "timesheetmanagement",
+    "description": "Timesheet Management Module for managing employees and their timesheets",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\TimesheetManagement\\Providers\\TimesheetManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
